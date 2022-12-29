@@ -89,8 +89,10 @@ p {
 }
 
 .circular {
-  margin-top: 20px;
-  border-radius: 200px;
+  border-radius: 50%;
+  aspect-ratio: 1;
+  width: 12%;
+  height: 5%;
 }
 
 .info {
